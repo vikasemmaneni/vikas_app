@@ -1,6 +1,7 @@
 <html>
 <body>
-<h2>Hello vikas!...hello india! hello world!</h2>
+<h1> Hello vikas </h1>
+<h2> hi india </h2>
 
 </body>
 </html>
